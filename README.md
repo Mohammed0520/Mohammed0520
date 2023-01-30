@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohammed0520
+- 👋 Hi, I’m Mohammed MAHIAOUI 
 - 👀 I’m interested in data science and cloud computing
 - 🌱 I’m currently learning python, R, machine learning, BI , Cloud , AI  
 - 💞️ I’m looking to collaborate on ...
